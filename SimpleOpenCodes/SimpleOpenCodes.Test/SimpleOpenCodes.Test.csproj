@@ -53,6 +53,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Extensions\DateTimeExtensionTest.cs" />
+    <Compile Include="Extensions\TimeSpanExtensionTest.cs" />
     <Compile Include="GenericTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
